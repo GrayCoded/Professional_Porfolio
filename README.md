@@ -22,11 +22,11 @@ This is a repo containing showcasing previous projects and new projects
     Usage
 
     - Using the Nav Elements in header shown in the picture will direct you to the desired section 
-    
-<img src="Assets/Screenshots/Image 2023-05-09 at 10.28 PM.jpg">
+![](.Assets/Screenshots/Image2023-05-11%at%11.51%PM.jpg)
+
     - selecting the mini-flexbox_project will take you to the site im working on it. 
-<img src="Assets/Screenshots/Image 2023-05-11 at 11.48 PM.jpg)">
+![](.Assets/Screenshots/Image%2023-05-11%at%11.48%PM.jpg)
 
     - the links at the botom of the page will send you to the attributed website.
-<img src="Assets/Screenshots/Image%2023-05-11 at 11.51 PM (1).jpg)">
+![](Assets/Screenshots/Image%2023-05-11%at%11.51%PM%(1).jpg)
 
